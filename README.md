@@ -1,8 +1,9 @@
-# Olá! Seja muito bem-vinde ao meu perfil do GitHub. Eu sou o André Luiz Pimentel Costa 😊
+# Olá! Eu sou o André Luiz Pimentel Costa 😊
+## Seja muito bem-vinde ao meu perfil do GitHub.
  <div>
   <a href="https://github.com/andrepimc">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrepimc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrepimc&layout=compact&langs_count=16&theme=dracula"/>
 <div>
 <div style="display: inline_block"><br>
   <img align="center" alt="André-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
