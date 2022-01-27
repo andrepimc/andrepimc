@@ -1,5 +1,5 @@
 # Olá! Eu sou o André Luiz Pimentel Costa 😊
-## Seja muito bem-vinde ao meu perfil do GitHub!
+## Seja muito bem-vindo(a) ao meu perfil do GitHub!
  <div>
   <a href="https://github.com/andrepimc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrepimc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
