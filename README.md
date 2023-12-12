@@ -1,6 +1,6 @@
-## Opa! Seja muito bem-vindo(a) ao meu perfil do GitHub!
-# Sou o André Luiz Pimentel Costa, um jovem apaixonado pela cultura do empreendedorismo
-## Movido por soluções tecnologicas criadas a fim de sanar um problema e facilitar a vida de pessoas.
+## Boa boa! Bem-vindo(a) ao meu perfil do GitHub!
+# Sou o André Luiz Pimentel, apaixonado pela arte de empreender
+## Movido por soluções tecnológicas criadas a fim de sanar problemas e facilitar a vida de pessoas.
  <div>
   <a href="https://github.com/andrepimc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrepimc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
