@@ -42,6 +42,7 @@ Understanding 😊 Sociable<br>
   [<img align="center" alt="-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
   [<img align="center" alt="-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
   [<img align="center" alt="-Tailwindcss" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">](https://tailwindcss.com/)
+  [<img align="center" alt="-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">](https://www.python.org/)
 </div>
  
 <div> 
