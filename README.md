@@ -1,14 +1,14 @@
-## Wasup!, I'm André Costa
+## Solving real-world problems with technology! I'm André Costa
 ### Welcome to my GitHub Profile!
 
 <p>
-I am a software engineer currently working on projects with Flutter and studying AI development.</br>
-I also enjoy programming with Typescript. I have build backend projects with NodeJs and also explored Vue and Next.js to develop web-focused interfaces.</br>
-At the moment i'm investing time in n8n automations and AI development with Python.</br></br>
+I am a dedicated and professional software engineer with four years of experience working across multiple technology stacks. My core expertise lies in mobile development with Flutter, supported by solid experience in backend development using Node.js and an expanding focus on AI and automation through Python and n8n.</br>
+With a strong engineering background, I’ve developed a highly analytical and critical mindset that helps me break down complex challenges, design scalable architectures, and make thoughtful, data-driven technical decisions. I move comfortably between architecture, performance, and user experience—always aiming to balance technical excellence with product clarity.</br></br>
 
 Take a look at my website: [dedev🧑🏽‍💻](https://dedev.netlify.app/)
 
-As a dedicated and professional software developer with four years of experience in various programming stacks, I am committed to providing innovative and efficient technological solutions. I bring attention to detail, creativity, authenticity, and emotional understanding to every project I work on, and I'm always excited to continue growing up my skills.</br>
+I’m committed to building innovative, efficient, and well-crafted solutions, bringing attention to detail, creativity, authenticity, and emotional understanding into every project I work on. Beyond the technical side, I also enjoy art and design, which enriches my ability to create interfaces that are both functional and visually consistent with modern UI/UX principles.</br>
+Continuously learning and improving is a core part of who I am, both as a developer and as a person.</br>
 </p>
 
 
